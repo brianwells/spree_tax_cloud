@@ -18,7 +18,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'spree_backend'
   s.add_dependency 'spree_core', '~> 2.3.1'
 
-  s.add_runtime_dependency 'savon', '~> 2.5.1'
+  s.add_runtime_dependency 'savon', '~> 2.9.0'
   s.add_runtime_dependency 'tax_cloud', '~> 0.3.0'
 
   s.add_development_dependency 'spree_frontend'
